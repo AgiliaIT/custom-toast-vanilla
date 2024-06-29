@@ -1,6 +1,6 @@
 {
   "name": "custom-toast-vanilla",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A lightweight and customizable toast notification library for JavaScript applications, designed for seamless integration with Laravel, Alpine.js, and vanilla projects. Enhance your user interface with elegant, responsive notifications.",
   "main": "dist/toast.umd.js",
   "module": "dist/toast.es.js",
@@ -10,7 +10,16 @@
     "build": "vite build",
     "dev": "vite"
   },
-  "keywords": [],
+  "keywords": [
+    "toast",
+    "notification",
+    "custom",
+    "javascript",
+    "laravel",
+    "alpine.js",
+    "vanilla",
+    "frontend"
+  ],
   "author": "",
   "license": "MIT",
   "dependencies": {
