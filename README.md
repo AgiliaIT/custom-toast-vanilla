@@ -16,7 +16,7 @@ Install via npm:
 
 ```bash
 npm install custom-toast-vanilla
-
+```
 ## Usage
 
 ### JavaScript
@@ -40,7 +40,7 @@ toast.show("title", "body", {
         },
     },
 });
-
+```
 
 ### PHP
 
@@ -57,7 +57,7 @@ toast.show("title", "body", {
         });
     </script>
 @endif
-
+```
 
 ## Contributing
 
